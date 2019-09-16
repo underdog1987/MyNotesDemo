@@ -19,7 +19,8 @@ Porque estoy aprendiendo Laravel (dah!). Traté de hacerla lo mas "*Single Page 
  - Clonar el repositorio
  - Crear o editar el archivo .env para configurar la base de datos
  - Con Composer instalado, ir a la carpeta raíz del proyecto y ejecutar
-```composer install 
+```
+composer install 
 php artisan migrate
 php artisan db:seed
 ```
